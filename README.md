@@ -6,7 +6,7 @@ My website portfolio
 ![alt text](https://github.com/abhishekchavan10/Portfolio/blob/main/Portfolio.PNG)
 
 ### Mobile View
-![alt text](https://github.com/abhishekchavan10/Portfolio/blob/main/Portfolio_mobile.JPG)
+![alt text](https://github.com/abhishekchavan10/Portfolio/blob/main/Portfolio_mobile.jpg)
 
 ## Author
 * Abhishek Chavan
